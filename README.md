@@ -6,9 +6,6 @@ Concentrated liquidity market maker on Solana. Powered by Serum orderbooks.
 
 http://cyclos.io/
 
-## Whitepaper
-
-Discusses the protocol and algorithms in detail. To be read in conjunction with the smart contract code. To be made public. The link is available in the [frontend repo](https://github.com/secretshardul/cyclos-frontend-react).
 
 ## Litepaper
 
